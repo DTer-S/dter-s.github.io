@@ -98,7 +98,7 @@
         <bt:String id="Functions.Namespace" DefaultValue="DD"/>
         <bt:String id="GetStarted.Title" DefaultValue="Get started with your sample add-in!"/>
         <bt:String id="CommandsGroup.Label" DefaultValue="DTerGPT"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="显示任务窗格"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="这是在线的任务窗格"/>
       </bt:ShortStrings>
       <bt:LongStrings>
         <bt:String id="GetStarted.Description" DefaultValue="Your sample add-in loaded succesfully. Go to the HOME tab and click the 'Show Taskpane' button to get started."/>
