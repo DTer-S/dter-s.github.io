@@ -6,7 +6,7 @@
             "name": "ADD",
             "parameters": [
                 {
-                    "description": "First number",
+                    "description": "第一个值",
                     "name": "first",
                     "type": "number"
                 },
