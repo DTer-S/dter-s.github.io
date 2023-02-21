@@ -89,8 +89,8 @@
         <bt:Image id="Icon.80x80" DefaultValue="https://dter-s.github.io/DTerGPT/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Functions.Script.Url" DefaultValue="https://dter-s.github.io/DTerGPT/public/functions.js"/>
-        <bt:Url id="Functions.Metadata.Url" DefaultValue="https://dter-s.github.io/DTerGPT/public/functions.json"/>
+        <bt:Url id="Functions.Script.Url" DefaultValue="https://dter-s.github.io/DTerGPT/functions.js"/>
+        <bt:Url id="Functions.Metadata.Url" DefaultValue="https://dter-s.github.io/DTerGPT/functions.json"/>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
         <bt:Url id="Taskpane.Url" DefaultValue="https://dter-s.github.io/DTerGPT/taskpane.html"/>
       </bt:Urls>
@@ -98,7 +98,7 @@
         <bt:String id="Functions.Namespace" DefaultValue="DD"/>
         <bt:String id="GetStarted.Title" DefaultValue="Get started with your sample add-in!"/>
         <bt:String id="CommandsGroup.Label" DefaultValue="DTerGPT"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="这是在线的任务窗格"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="任务窗格"/>
       </bt:ShortStrings>
       <bt:LongStrings>
         <bt:String id="GetStarted.Description" DefaultValue="Your sample add-in loaded succesfully. Go to the HOME tab and click the 'Show Taskpane' button to get started."/>
