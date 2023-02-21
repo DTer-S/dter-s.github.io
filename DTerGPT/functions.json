@@ -2,8 +2,8 @@
     "functions": [
         {
             "description": "Add two numbers",
-            "id": "ADD",
-            "name": "ADD",
+            "id": "ADDd",
+            "name": "ADDd",
             "parameters": [
                 {
                     "description": "第一个值",
@@ -11,7 +11,7 @@
                     "type": "number"
                 },
                 {
-                    "description": "Second number",
+                    "description": "第一个值 number",
                     "name": "second",
                     "type": "number"
                 }
