@@ -4,7 +4,7 @@
   <Version>1.0.0.0</Version>
   <ProviderName>DTer</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="DTerGPT自定义"/>
+  <DisplayName DefaultValue="DTerGPT"/>
   <Description DefaultValue="用JavaScript创建自己的Excel函数。"/>
   <IconUrl DefaultValue="https://dter-s.github.io/DTerGPT/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://dter-s.github.io/DTerGPT/assets/icon-64.png"/>
@@ -89,8 +89,8 @@
         <bt:Image id="Icon.80x80" DefaultValue="https://dter-s.github.io/DTerGPT/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Functions.Script.Url" DefaultValue="https://dter-s.github.io/DTerGPT/public/functions.js"/>
-        <bt:Url id="Functions.Metadata.Url" DefaultValue="https://dter-s.github.io/DTerGPT/public/functions.json"/>
+        <bt:Url id="Functions.Script.Url" DefaultValue="https://dter-s.github.io/DTerGPT/functions.js"/>
+        <bt:Url id="Functions.Metadata.Url" DefaultValue="https://dter-s.github.io/DTerGPT/functions.json"/>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
         <bt:Url id="Taskpane.Url" DefaultValue="https://dter-s.github.io/DTerGPT/taskpane.html"/>
       </bt:Urls>
